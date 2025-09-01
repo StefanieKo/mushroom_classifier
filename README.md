@@ -1,7 +1,7 @@
-# Comparative Decision Tree Analysis for Prediction and Insight
+# Mushroom Classification and Comparative Tree Analysis
 
 ## Overview
-This project explores the use of decision tree classifiers to predict whether mushrooms are edible or poisonous based on morphological and seasonal features. Beyond prediction accuracy, the exercise serves as a case study of how ML methods can explore relationships between features.
+This project explores the use of decision tree classifiers to predict whether mushrooms are edible or poisonous based on morphological and seasonal features. Beyond prediction accuracy, the exercise serves as a case study of how ML methods can explore relationships between features to advance insight into complex systems and identify potential levers for intervention.
 
 ## Dataset
 - **Source:** GitHub (open dataset)  
