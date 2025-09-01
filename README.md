@@ -36,6 +36,13 @@ This project explores the use of decision tree classifiers to predict whether mu
 The mushroom dataset illustrates a classic trade-off: shallow trees are interpretable but less accurate, while deeper trees achieve higher predictive performance at the cost of transparency. While this dataset is simple, the approach hints at how ML can help uncover interactions between structures and functions in complex systems, guiding the identification of potential intervention points.
 
 ## Conclusion / Takeaway Message
-While the mushroom dataset primarily illustrates a classification task, it serves as a simple example of how ML methods can explore relationships between features. Extending this approach to complex systems could enhance our understanding of system dynamics by analyzing interactions between structures and functions. Examining these interactions, decision trees and similar models can reveal potential levers for intervention, support the identification of dynamic equilibria, and guide the design of more resilient, self-regulating systems.  
+While ML is currently used primarily for **prediction and forecasting**, I find this predictive potential extremely exciting.  
+At the same time, I am particularly interested in **exploring ML as an analytical tool** – to probe relationships between **structures, interactions, and dynamics**, uncover hidden patterns, and investigate where interventions could have meaningful impact.  
 
-For me, this highlights the opportunity to **experiment with ML not only to predict outcomes, but to generate actionable insights, uncover structural patterns, and deepen my understanding of complex systems in practice**.
+Applied to complex systems, this approach opens opportunities in areas such as:
+
+- **Healthcare:** analyzing patient data to identify critical points in care pathways, evaluate interventions, and improve coordination between specialists.
+- **Climate and energy systems:** examining interactions between energy production, consumption, and storage to identify optimal configurations and intervention points.
+- **Administrative systems:** exploring coordination mechanisms to reveal where process adjustments could enhance system performance and sustainability.
+
+This exploratory perspective complements predictive applications and provides a way to **deepen understanding of complex systems**, uncover **actionable insights**, and guide **practical decision-making** across diverse domains.
